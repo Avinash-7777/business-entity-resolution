@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/
+output/*.tsv
+output/*.zip
+
+submission/output/
+submission/*.zip
+
+*.zip
+.env
+submission/
